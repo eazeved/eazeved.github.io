@@ -51,7 +51,7 @@ Languages      Python · Bash · Java · TypeScript · YAML · SQL
 |---|---|
 | 🐙 GitHub | [@eazeved](https://github.com/eazeved) |
 | 🌐 Portfolio | [eazeved.github.io](https://eazeved.github.io) |
-| 📎 [My Resume](https://github.com/eazeved/eazeved.github.io/blob/73add567d7eb637a87db20eb90ed08df220f0283/Edilson_Azevedo_us_2026.pdf) |
+| 📎 [My Resume](https://github.com/eazeved/eazeved.github.io/blob/73add567d7eb637a87db20eb90ed08df220f0283/Edilson_Azevedo_us_2026.pdf)
 
 ---
 
